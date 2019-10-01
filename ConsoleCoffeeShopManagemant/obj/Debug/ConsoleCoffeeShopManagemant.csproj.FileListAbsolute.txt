@@ -1,0 +1,7 @@
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\bin\Debug\ConsoleCoffeeShopManagemant.exe.config
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\bin\Debug\ConsoleCoffeeShopManagemant.exe
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\bin\Debug\ConsoleCoffeeShopManagemant.pdb
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\obj\Debug\ConsoleCoffeeShopManagemant.csproj.CoreCompileInputs.cache
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\obj\Debug\ConsoleCoffeeShopManagemant.exe
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\obj\Debug\ConsoleCoffeeShopManagemant.pdb
+G:\MY PROJECT\ConsoleCoffeeShopManagemant\ConsoleCoffeeShopManagemant\obj\Debug\ConsoleCoffeeShopManagemant.csprojAssemblyReference.cache
